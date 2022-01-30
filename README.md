@@ -1,3 +1,7 @@
-## Personal Portfolio
+# My Personal Portfolio
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+**Author**
+
+### Zain Sadaqat
+
+
