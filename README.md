@@ -40,7 +40,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Zeplin Project and brought to us by Microverse
+- JavaScript Mastery
 
 ## 📝 License
 
