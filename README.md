@@ -20,6 +20,10 @@ Go To Terminal and paste the following command:
 
 `npm start`
 
+## Live project link deployed at Vercel
+
+https://nextjs-portfolio-sandy.vercel.app/
+
 ## Author
 
 👤 **Zain Sadaqat**
