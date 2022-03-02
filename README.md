@@ -6,7 +6,8 @@ Hey, my name is Zain Sadaqat and I have a goal to work for a company that uses m
 
 ## Built With
 
-- NextJS, Styled Components
+- NextJS
+- Styled Components
 
 ## Steps to run the project in your local machine
 
