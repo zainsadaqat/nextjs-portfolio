@@ -31,7 +31,7 @@ https://nextjs-portfolio-sandy.vercel.app/
 
 - GitHub: [zainsadaqat](https://github.com/zainsadaqat)
 - Twitter: [zain_sadaqat](https://twitter.com/zain_sadaqat)
-- LinkedIn: [Zain Sadaqat](https://linkedin.com/in/zain-sadaqat)
+- LinkedIn: [zain-sadaqat](https://linkedin.com/in/zain-sadaqat)
 
 ## 🤝 Contributing
 
