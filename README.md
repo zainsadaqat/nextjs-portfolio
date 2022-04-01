@@ -10,6 +10,11 @@ I previously worked as a freelance UI/UX Designer where I learned how to design 
 - NextJS
 - Styled Components
 
+## Live project link deployed at Vercel
+
+https://nextjs-portfolio-sandy.vercel.app/
+
+
 ## Steps to run the project in your local machine
 
 Go To Terminal and paste the following command:
@@ -29,10 +34,6 @@ npm install
 ```
 npm start
 ```
-
-## Live project link deployed at Vercel
-
-https://nextjs-portfolio-sandy.vercel.app/
 
 ## Author
 
