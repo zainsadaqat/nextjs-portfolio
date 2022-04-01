@@ -14,13 +14,21 @@ I previously worked as a freelance UI/UX Designer where I learned how to design 
 
 Go To Terminal and paste the following command:
 
-`git clone git@github.com:zainsadaqat/nextjs-portfolio.git`
+```
+git clone git@github.com:zainsadaqat/nextjs-portfolio.git
+```
 
-`cd nextjs-portfolio`
+```
+cd nextjs-portfolio
+```
 
-`npm install`
+```
+npm install
+```
 
-`npm start`
+```
+npm start
+```
 
 ## Live project link deployed at Vercel
 
