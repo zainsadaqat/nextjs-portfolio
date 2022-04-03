@@ -42,6 +42,7 @@ npm start
 - GitHub: [zainsadaqat](https://github.com/zainsadaqat)
 - Twitter: [zain_sadaqat](https://twitter.com/zain_sadaqat)
 - LinkedIn: [zain-sadaqat](https://linkedin.com/in/zain-sadaqat)
+- WhatsApp: [+923151467374](call:+923151467374)
 
 ## 🤝 Contributing
 
