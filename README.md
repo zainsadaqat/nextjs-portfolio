@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Zain Sadaqat Portfolio
+# My Portfolio
 
 Hey, my name is Zain Sadaqat and I have a goal to work for a company that uses modern frontend and backend technologies. 
 I previously worked as a freelance UI/UX Designer where I learned how to design pixel-perfect user interfaces. Currently, I am studying at Microverse, an online full-stack web development training school where I work on different projects using the latest technologies for almost 9 hours every single day remotely with other developers from all over the world and have learned the skills of communication and teamwork. I am really excited about the opportunity to work remotely with a strong tech company. Would you like to discuss further with me?
