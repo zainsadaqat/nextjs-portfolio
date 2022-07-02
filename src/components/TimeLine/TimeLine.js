@@ -67,7 +67,10 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I'm a Full Stack Web Development Student at Microverse
+        Passionate Full Stack Web Developer and UI/UX Designer with Bachelors in
+        Computer Science skilled in JavaScript, React, Redux, NodeJS, and NextJS
+        built numerous projects using the latest technologies and spent 1400+
+        hours working remotely with developers from 50+ countries.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
