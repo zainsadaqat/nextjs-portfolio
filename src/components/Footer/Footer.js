@@ -25,7 +25,7 @@ const Footer = () => {
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem href="mailto:zain.sadaqet@gmail.com">
-            zain.sadaqet@gmail.com
+            zain.sadaqat@icloud.com
           </LinkItem>
         </LinkColumn>
       </LinkList>
@@ -40,7 +40,7 @@ const Footer = () => {
           <SocialIcons href="https://www.linkedin.com/in/zain-sadaqat">
             <AiFillLinkedin size="3rem"></AiFillLinkedin>
           </SocialIcons>
-          <SocialIcons href="https://www.instagram.com/zain.sedaqat">
+          <SocialIcons href="https://www.instagram.com/zain.web.dev">
             <AiFillInstagram size="3rem"></AiFillInstagram>
           </SocialIcons>
         </SocialContainer>
