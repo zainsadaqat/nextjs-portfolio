@@ -56,6 +56,17 @@ const Technologies = () => (
           </ListParagraph>
         </ListContainer>
       </ListItem>
+      <ListItem>
+        <DiZend size="3rem" />
+        <ListContainer>
+          <ListTitle>Code Reviewer</ListTitle>
+          <ListParagraph>
+            Experience with:
+            <br />
+            Github, HTML, CSS, JS, React, Redux, Ruby on Rails
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
     </List>
   </Section>
 );

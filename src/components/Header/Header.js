@@ -2,7 +2,6 @@ import Link from 'next/link';
 import React from 'react';
 import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
 import { DiCssdeck } from 'react-icons/di';
-
 import {
   Container,
   Span,
@@ -54,7 +53,7 @@ const Header = () => (
       <SocialIcons href="https://www.linkedin.com/in/zain-sadaqat">
         <AiFillLinkedin size="3rem"></AiFillLinkedin>
       </SocialIcons>
-      <SocialIcons href="https://www.instagram.com/zain.sedaqat">
+      <SocialIcons href="https://www.instagram.com/zain.web.dev">
         <AiFillInstagram size="3rem"></AiFillInstagram>
       </SocialIcons>
     </Div3>

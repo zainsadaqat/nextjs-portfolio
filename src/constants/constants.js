@@ -43,18 +43,20 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2016, text: 'Started CS Degree' },
-  { year: 2020, text: 'Graduated' },
+  { year: 2020, text: 'Graduated in CS' },
   { year: 2021, text: 'Freelancing as a UI/UX Designer' },
   { year: 2021, text: 'Enrolled in remote software school (Microverse)' },
   { year: 2021, text: 'Started learning Full Stack Web Development' },
   { year: 2022, text: 'Graduated from Microverse' },
+  { year: 2022, text: 'Started giving Code Reviews' },
 ];
 
 export const data = [
-  { number: 8, text: 'Hours Spent on Coding every single day' },
-  { number: 100, text: 'Pair Programming Activities' },
-  { number: 1500, text: 'Hours Spent on Coding in a year' },
-  { number: 20, text: 'Github Followers' },
+  { number: 300, text: 'Reviewed Projects' },
+  { number: 100, text: 'Hours Spent Giving Code Reviews' },
+  { number: 1400, text: 'Hours Spent on Coding in a year' },
+  { number: 50, text: 'Remotely working with developers from 50+ countries' },
+  { number: 30, text: 'Github Followers' },
   { number: 10, text: 'Freelance Design Projects' },
   { number: 5, text: 'Stars rating on Fiverr' },
 ];
